@@ -1,1 +1,1 @@
-# ProfTrainingAi
+# Image Classification Prof.traning Ai
