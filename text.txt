@@ -1,2 +1,72 @@
-Hi
+reate code python about on google colab : IMAGES CLASSIFICATION 
 
+The primary aim of this project is to design, implement, and evaluate an
+effective image classification model for categorizing images into distinct
+classes using pretrained models.
+
+-> Take any the dataset from Kaggle about ( images classification)
+
+DATASETS : 
+
+Project Ideas:
+1- Emotion Recognition
+2- Age Detection
+3- Pet Breed Classification
+4-Traffic Sign Recognition
+5- Medical Image Classification (specify the disease)
+6- Trash Classification for Recycling
+7- Bird Species Identification
+8 - Real and AI generated images
+
+STEPS :
+1 - Load the dataset take in Error handling if the dataset is load Done then print error  
+
+2 - Split the dataset
+
+3 - Apply the necessary Import the dataset and preprocess the images (scaling and
+augmentation).
+
+4 - After your Split and preprocessing the data make plot 3 simple the dataset 
+
+=====================================================
+
+5 - Train and compare the performance of these pretrained models
+(EfficientNet/Resnet/MobileNet)
+
+6- Create model checkpoints and implement early stopping
+
+7 - Training the models on the Training set.
+
+8- Compare between the optimizers in tensorflow by plotting the
+training loss curves.
+
+9- Generate a confusion matrix if number of classes <= 10 classes.
+10- Otherwise compare the F1-scores of each class if classes >10.
+11- Give your model a new image to predict it.
+
+12 - print the Accuracy and optimizer 
+13 - Evaluate the trained models on the Testing set and compare the evaluation metrics
+(Loss and Accuracy) among the model for each optimizer.
+
+14 - Plot four figures for U-net model:
+o Figure-1: depicting train loss for the model
+o Figure-2: depicting validation or test loss for the model
+o Figure-3: depicting train accuracy for the model
+o Figure-4: depicting validation or test accuracy for the model
+• Show your display results  that includes the final training and validation Loss and
+Accuracy of the ten model as follows:
+
+-> model
+-> optimizer 
+-> train loss
+-> Train Acc
+-> Validation or test Loss 
+-> Validation or test Acc
+
+=================================================
+
+i need you put the simple comments and mack sure create function without function main
+
+i need you print the confusion matrix and F1 
+
+step by step
